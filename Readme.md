@@ -1,3 +1,2 @@
-#This is a local Repo
-<br>
-I am watching a yt tutorial to learn to use github.
+# This is a local Repo.
+# I am watching a yt tutorial to learn to use github.
